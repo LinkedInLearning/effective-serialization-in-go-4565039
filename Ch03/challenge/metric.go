@@ -11,7 +11,7 @@ type Metric struct {
 	Labels map[string]string
 }
 
-// MarshalText implements encoding.T.
+// MarshalText implements encoding.TextMarshaler
 func (m Metric) MarshalText() ([]byte, error) {
 	// TODO
 	return nil, nil
