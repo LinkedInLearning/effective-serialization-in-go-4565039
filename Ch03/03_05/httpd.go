@@ -18,6 +18,7 @@ func logsHandler(w http.ResponseWriter, r *http.Request) {
 	s := bufio.NewScanner(rdr)
 	for s.Scan() {
 		w.Write(s.Bytes())
+		w.Write([]byte{'\n'})
 		ctrl.Flush()
 	}
 }
