@@ -2,6 +2,7 @@ package metrics
 
 import (
 	"bytes"
+	"encoding/json"
 	"fmt"
 	"time"
 )
@@ -35,4 +36,15 @@ func (m Metric) MarshalText() ([]byte, error) {
 	}
 
 	return buf.Bytes(), nil
+}
+
+type Metrics []Metric
+
+func (ms Metrics) MarshalJSON() ([]byte, error) {
+	m := map[string]any{
+		"count":   len(ms),
+		"metrics": []Metric(ms),
+	}
+
+	return json.Marshal(m)
 }
