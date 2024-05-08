@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T12:55:06Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358506.8776] device (wlp0s20f3): supplicant interface state: completed -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:55:06Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: send auth to 00:b8:c2:11:44:81 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:55:06Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticate with 00:b8:c2:11:44:81 (local address=8c:f8:c5:c3:43:ee)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:55:06Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: disconnect from AP 00:b8:c2:11:44:80 for new auth to 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:55:06Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: SME: Trying to authenticate with 00:b8:c2:11:44:81 (SSID=&#39;tebeka&#39; freq=5260 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:45Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>DEBUG</level>
+    <message>wlp0s20f3: Limiting TX power to 20 (20 - 0) dBm as advertised by 00:b8:c2:11:44:80</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5811] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5805] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20, acd pending</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5601] dhcp6 (wlp0s20f3): state changed new lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5548] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5547] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5547] dhcp6 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5546] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5546] dhcp6 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5546] device (wlp0s20f3): ip:dhcp6: restarting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5545] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5544] dhcp4 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5544] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5544] dhcp4 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5543] device (wlp0s20f3): ip:dhcp4: restarting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-65 noise=9999 txrate=26000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5533] device (wlp0s20f3): supplicant interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-CONNECTED - Connection to 00:b8:c2:11:44:80 completed [id=0 id_str=]</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WPA: Key negotiation completed with 00:b8:c2:11:44:80 [PTK=CCMP GTK=CCMP]</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5334] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5333] device (wlp0s20f3): supplicant interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5293] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5292] device (wlp0s20f3): supplicant interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Associated with 00:b8:c2:11:44:80</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: RX ReassocResp from 00:b8:c2:11:44:80 (capab=0x1411 status=0 aid=1)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associate with 00:b8:c2:11:44:80 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5033] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.5032] device (wlp0s20f3): supplicant interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Trying to associate with 00:b8:c2:11:44:80 (SSID=&#39;tebeka&#39; freq=2432 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: send auth to 00:b8:c2:11:44:80 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.4757] device (p2p-dev-wlp0s20f3): supplicant management interface state: completed -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358475.4757] device (wlp0s20f3): supplicant interface state: completed -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticate with 00:b8:c2:11:44:80 (local address=8c:f8:c5:c3:43:ee)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: 80 MHz not supported, disabling VHT</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: disconnect from AP 00:b8:c2:11:44:81 for new auth to 00:b8:c2:11:44:80</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: SME: Trying to authenticate with 00:b8:c2:11:44:80 (SSID=&#39;tebeka&#39; freq=2432 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:32Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WNM: Preferred List Available</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:27Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:23Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-72 noise=9999 txrate=26000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3680] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3677] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20, acd pending</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3656] dhcp6 (wlp0s20f3): state changed new lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>DEBUG</level>
+    <message>wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3338] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] dhcp6 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] dhcp6 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] device (wlp0s20f3): ip:dhcp6: restarting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3337] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3336] dhcp4 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3336] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3336] dhcp4 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3336] device (wlp0s20f3): ip:dhcp4: restarting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3333] device (wlp0s20f3): supplicant interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-CONNECTED - Connection to 00:b8:c2:11:44:81 completed [id=0 id_str=]</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WPA: Key negotiation completed with 00:b8:c2:11:44:81 [PTK=CCMP GTK=CCMP]</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3110] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.3108] device (wlp0s20f3): supplicant interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2965] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2964] device (wlp0s20f3): supplicant interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2957] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2956] device (wlp0s20f3): supplicant interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Associated with 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: RX ReassocResp from 00:b8:c2:11:44:81 (capab=0x1011 status=0 aid=1)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associate with 00:b8:c2:11:44:81 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticated</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Trying to associate with 00:b8:c2:11:44:81 (SSID=&#39;tebeka&#39; freq=5260 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2459] device (p2p-dev-wlp0s20f3): supplicant management interface state: completed -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358457.2458] device (wlp0s20f3): supplicant interface state: completed -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: send auth to 00:b8:c2:11:44:81 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticate with 00:b8:c2:11:44:81 (local address=8c:f8:c5:c3:43:ee)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: disconnect from AP 00:b8:c2:11:44:80 for new auth to 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: SME: Trying to authenticate with 00:b8:c2:11:44:81 (SSID=&#39;tebeka&#39; freq=5260 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:54:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WNM: Preferred List Available</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:42Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WNM: Preferred List Available</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:13Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7448] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7445] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20, acd pending</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7204] dhcp6 (wlp0s20f3): state changed new lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] dhcp6 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] dhcp6 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7137] device (wlp0s20f3): ip:dhcp6: restarting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7136] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:52:03Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713358323.7136] dhcp4 (wlp0s20f3): state changed no lease</message>
+  </log>
+</logs>

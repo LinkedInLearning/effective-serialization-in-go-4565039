@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>Suspending...</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>Lid closed.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:06:53Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-68 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:59:22Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:59:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:59:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:59:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713369552.5515] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:58:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-68 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:58:13Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-68 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:50:16Z</time>
+    <level>INFO</level>
+    <message>[15098:15103:0417/185016.218127:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -101</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:50:15Z</time>
+    <level>INFO</level>
+    <message>[15098:15103:0417/185015.906139:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -101</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:32:28Z</time>
+    <level>NOTICE</level>
+    <message>Running on LOW Battery, pausing</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:29:22Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:29:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:29:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:29:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713367752.5513] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:27:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-68 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:19:09Z</time>
+    <level>INFO</level>
+    <message>Started GCR ssh-agent wrapper.</message>
+  </log>
+  <log>
+    <time>2024-04-17T15:06:03Z</time>
+    <level>INFO</level>
+    <message>Key repeat discarded, Wayland compositor doesn&#39;t seem to be processing events fast enough!</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:59:22Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:59:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:59:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:59:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713365952.5391] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:50:21Z</time>
+    <level>WARNING</level>
+    <message>Failed to store clipboard: Format UTF8_STRING not supported</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:31:46Z</time>
+    <level>INFO</level>
+    <message>perf: interrupt took too long (2507 &gt; 2500), lowering kernel.perf_event_max_sample_rate to 79500</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:29:26Z</time>
+    <level>INFO</level>
+    <message>[15032:15032:0417/172926.138375:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:29:22Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:29:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:29:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:29:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713364152.5456] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:13:39Z</time>
+    <level>INFO</level>
+    <message>Started VTE child process 29631 launched by gnome-terminal-server process 5941.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:13:18Z</time>
+    <level>INFO</level>
+    <message>Started VTE child process 29014 launched by gnome-terminal-server process 5941.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:09:12Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-70 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:05:01Z</time>
+    <level>INFO</level>
+    <message>[15032:15032:0417/170501.714244:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:25Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Settings.SearchProvider@4.service: Consumed 1.415s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:17Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-69 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:11Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-68 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:09Z</time>
+    <level>INFO</level>
+    <message>[24763:0417/170409.340221:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:05Z</time>
+    <level>INFO</level>
+    <message>[24763:0417/170405.377457:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:04:00Z</time>
+    <level>WARNING</level>
+    <message>Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.Failed: error occurred in Get
+
+Stack trace:
+  _promisify/proto[asyncFunc]/&lt;/&lt;@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  ### Promise created here: ###
+  getProperty@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusProxy.js:89:33
+  refreshProperty@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:305:48
+  _refreshOwnProperties/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:191:32
+  _refreshOwnProperties@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:189:51
+  _onSignalAsync/refreshPropertiesPromises&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:245:26
+  _onSignalAsync@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:244:50
+  async*_onSignal@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:203:14
+  _init/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusProxy.js:40:43
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  </message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at T.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:174:10674)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:domain:488:12)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:events:514:28)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.&lt;anonymous&gt; (node:electron/js2c/browser_init:2:78183)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:6606</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at yu (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:5872)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:94:41813</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>Error occurred in handler for &#39;GET_MEDIA_ACCESS_STATUS&#39;: TypeError: ae.systemPreferences.getMediaAccessStatus is not a function</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at T.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:174:10674)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:domain:488:12)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:events:514:28)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.&lt;anonymous&gt; (node:electron/js2c/browser_init:2:78183)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:6606</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at yu (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:5872)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:94:41813</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>Error occurred in handler for &#39;GET_MEDIA_ACCESS_STATUS&#39;: TypeError: ae.systemPreferences.getMediaAccessStatus is not a function</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at T.emit (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:174:10674)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:domain:488:12)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.emit (node:events:514:28)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at WebContents.&lt;anonymous&gt; (node:electron/js2c/browser_init:2:78183)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:6606</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at yu (/usr/lib/slack/resources/app.asar/dist/main.bundle.js:5:5872)</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>    at /usr/lib/slack/resources/app.asar/dist/main.bundle.js:94:41813</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:55Z</time>
+    <level>INFO</level>
+    <message>Error occurred in handler for &#39;GET_MEDIA_ACCESS_STATUS&#39;: TypeError: ae.systemPreferences.getMediaAccessStatus is not a function</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:48Z</time>
+    <level>INFO</level>
+    <message>[24763:0417/170348.250358:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:38Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Nautilus@5.service: Consumed 1.641s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:37Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.manjaro.pamac.manager@5.service: Consumed 2.144s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:36Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Characters@5.service: Consumed 1.453s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:36Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application exiting</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:36Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.clocks@5.service: Consumed 1.440s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:27Z</time>
+    <level>WARNING</level>
+    <message>Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.Failed: error occurred in AboutToShow
+
+Stack trace:
+  _promisify/proto[asyncFunc]/&lt;/&lt;@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  ### Promise created here: ###
+  sendAboutToShow@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:501:48
+  sendAboutToShow@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:198:22
+  attachToMenu@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:862:24
+  _updateMenu/this._menuReadyId&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:319:38
+  _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+  _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+  Client/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:833:24
+  _updateLayoutState@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:365:18
+  _layoutUpdateUpdateAsync@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:346:18
+  async*_beginLayoutUpdate@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:326:14
+  _requestLayoutUpdate@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:276:14
+  initAsync@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:254:14
+  async*Client@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:827:22
+  _updateMenu@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:311:32
+  _showIfReady@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:332:14
+  _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+  _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+  _checkIfReady@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:464:18
+  checkIfReadyChanged@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:646:50
+  _onPropertiesChanged/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:654:17
+  _onPropertiesChanged@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:650:15
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  </message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:27Z</time>
+    <level>WARNING</level>
+    <message>asked to register item /org/freedesktop/secrets/collection/login/1, but it&#39;s already registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:27Z</time>
+    <level>WARNING</level>
+    <message>asked to register item /org/freedesktop/secrets/collection/login/1, but it&#39;s already registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:27Z</time>
+    <level>INFO</level>
+    <message>(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:27Z</time>
+    <level>INFO</level>
+    <message>Initializing local storage instance</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:26Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.NautilusPreviewer@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:26Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application started</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:26Z</time>
+    <level>INFO</level>
+    <message>Started Application launched by gnome-shell.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>NOTICE</level>
+    <message>Connecting to org.freedesktop.Tracker3.Miner.Files</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.manjaro.pamac.manager@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@13.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.clocks@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Settings.SearchProvider@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Nautilus@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Characters@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Calculator.SearchProvider@5.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T14:03:25Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+</logs>

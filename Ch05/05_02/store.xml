@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <item sku="m183x">
+	<name>Magic Wand</name>
+	<price>7.0</price>
+    </item>
+    <item sku="m184y">
+	<name>Invisibility Cape</name>
+	<price>13.2</price>
+    </item>
+    <item sku="m185z">
+	<name>Levitation Spell</name>
+	<price>9.3</price>
+    </item>
+</store>

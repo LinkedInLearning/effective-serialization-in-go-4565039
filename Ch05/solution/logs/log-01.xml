@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: RFIm is deactivated, reason = 5</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: CNVI_SCU_SEQ_DATA_DW9: 0x10</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_AUTH_KEY_0: 0x90</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_LMAC2_PD_NOTIFICATION: 0x1f</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_UMAC_PD_NOTIFICATION: 0x20</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>ERROR</level>
+    <message>iwlwifi 0000:00:14.3: WRT: Invalid buffer destination</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.2852] device (wlp0s20f3): set-hw-addr: set MAC address to 7E:9F:33:C5:4B:CB (scanning)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.2379] device (wlp0s20f3): state change: unmanaged -&gt; unavailable (reason &#39;managed&#39;, sys-iface-state: &#39;external&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>e1000e 0000:00:1f.6 enp0s31f6: NIC Link is Down</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.0378] device (enp0s31f6): state change: unmanaged -&gt; unavailable (reason &#39;managed&#39;, sys-iface-state: &#39;external&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>WARNING</level>
+    <message>Failed to make thread &#39;KMS thread&#39; normally scheduled: Operation not permitted</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>WARNING</level>
+    <message>Recovering from system lockup, not allowing further RT threads.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379959.9506] device (enp0s31f6): state change: unavailable -&gt; unmanaged (reason &#39;sleeping&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379959.9505] manager: sleep: wake requested (sleeping: yes  enabled: yes)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>&lt;msg&gt; [sleep-monitor-systemd] system is resuming</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Stopped target Suspend.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Operation &#39;suspend&#39; finished.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Reached target Suspend.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Stopped target Sleep.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Finished System Suspend.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>systemd-suspend.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>PM: suspend exit</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Controller resume with wake event 0x0</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>System returned from sleep operation &#39;suspend&#39;.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Demoted 7 threads.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2051 of process 2051.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2061 of process 2051.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2055 of process 2055.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2068 of process 2055.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2053 of process 2053.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 2063 of process 2053.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>Successfully demoted thread 1611 of process 1578.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Demoting known real-time threads.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>WARNING</level>
+    <message>The canary thread is apparently starving. Taking action.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Lid opened.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>NOTICE</level>
+    <message>random: crng reseeded on system resumption</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>WARNING</level>
+    <message>done.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>mei_pxp 0000:00:16.0-fbf6fcf1-96cf-4e2e-a6a6-1bab8cbe36b1: bound 0000:00:02.0 (ops i915_pxp_tee_component_ops [i915])</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Restarting tasks ... </message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>OOM killer enabled.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>mei_hdcp 0000:00:16.0-b638ab7e-94e2-4ea2-a552-d1c54b627f04: bound 0000:00:02.0 (ops i915_hdcp_ops [i915])</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: GUC: RC enabled</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: GUC: SLPC enabled</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: GUC: submission enabled</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: HuC: authenticated for all workloads</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: HuC firmware i915/tgl_huc.bin version 7.9.3</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>i915 0000:00:02.0: [drm] GT0: GuC firmware i915/adlp_guc_70.bin version 70.20.0</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: RFIm is deactivated, reason = 5</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: CNVI_SCU_SEQ_DATA_DW9: 0x10</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_AUTH_KEY_0: 0x90</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_LMAC2_PD_NOTIFICATION: 0x1f</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>iwlwifi 0000:00:14.3: WFPM_UMAC_PD_NOTIFICATION: 0x20</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>ERROR</level>
+    <message>iwlwifi 0000:00:14.3: WRT: Invalid buffer destination</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>nvme nvme0: 12/0/0 default/read/poll queues</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>ERROR</level>
+    <message>thinkpad_acpi: Unknown/reserved multi mode value 0x0000 for type 4, please report this to ibm-acpi-devel@lists.sourceforge.net</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>ACPI: EC: interrupt unblocked</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>WARNING</level>
+    <message>typec port0-partner: PM: parent port0 should not be sleeping</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>ACPI: EC: interrupt blocked</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>e1000e: EEE TX LPI TIMER: 00000011</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>printk: Suspending console(s) (use no_console_suspend to debug)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Freezing remaining freezable tasks completed (elapsed 0.000 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Freezing remaining freezable tasks</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>OOM killer disabled.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Freezing user space processes completed (elapsed 0.003 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:39Z</time>
+    <level>INFO</level>
+    <message>Freezing user space processes</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>Filesystems sync: 0.041 seconds</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 7 threads of 4 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>Successfully made thread 1611 of process 1578 owned by &#39;1000&#39; RT at priority 20.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>PM: suspend entry (s2idle)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>Performing sleep operation &#39;suspend&#39;...</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 6 threads of 3 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 6 threads of 3 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 7 threads of 4 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>Successfully made thread 1611 of process 1578 owned by &#39;1000&#39; high priority at nice level 0.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:29Z</time>
+    <level>INFO</level>
+    <message>Starting System Suspend...</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:28Z</time>
+    <level>INFO</level>
+    <message>Reached target Sleep.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:28Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 7 threads of 4 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:28Z</time>
+    <level>INFO</level>
+    <message>Successfully made thread 1611 of process 1578 owned by &#39;1000&#39; RT at priority 20.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:28Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 6 threads of 3 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:28Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 6 threads of 3 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>DEBUG</level>
+    <message>Supervising 7 threads of 4 processes of 1 users.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>Successfully made thread 1611 of process 1578 owned by &#39;1000&#39; high priority at nice level 0.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>WARNING</level>
+    <message>TypeError: SettingsManager.getDefault() is null
+
+Stack trace:
+  getDefaultGSettings@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/settingsManager.js:54:28
+  _updateIconSize@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:1529:42
+  _updateWhenFullyReady@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:989:18
+  async*_init/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:942:22
+  hideOverview@resource:///org/gnome/shell/ui/layout.js:373:28
+  _hideDone@resource:///org/gnome/shell/ui/overview.js:650:32
+  _animateNotVisible/&lt;@resource:///org/gnome/shell/ui/overview.js:636:55
+  onStopped@resource:///org/gnome/shell/ui/overviewControls.js:751:21
+  _makeEaseCallback/&lt;@resource:///org/gnome/shell/ui/environment.js:84:22
+  _easeActorProperty/&lt;@resource:///org/gnome/shell/ui/environment.js:250:60
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  </message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>nl80211: deinit ifname=wlp0s20f3 disabled_11b_rates=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-DSCP-POLICY clear_all</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-DSCP-POLICY clear_all</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>nl80211: deinit ifname=p2p-dev-wlp0s20 disabled_11b_rates=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>p2p-dev-wlp0s20: CTRL-EVENT-DSCP-POLICY clear_all</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>p2p-dev-wlp0s20: CTRL-EVENT-DSCP-POLICY clear_all</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.6178] device (wlp0s20f3): set-hw-addr: reset MAC address to 8C:F8:C5:C3:43:EE (unmanage)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.4688] device (wlp0s20f3): state change: disconnected -&gt; unmanaged (reason &#39;sleeping&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>WARNING</level>
+    <message>Source ID 253395 was not found when attempting to remove it</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3856] device (wlp0s20f3): set-hw-addr: set MAC address to 1A:75:2A:DF:54:BB (scanning)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3488] dhcp6 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3488] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3487] dhcp6 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3485] dhcp4 (wlp0s20f3): state changed no lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3485] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3484] dhcp4 (wlp0s20f3): canceled DHCP transaction</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-9999 noise=9999 txrate=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3477] device (wlp0s20f3): state change: deactivating -&gt; disconnected (reason &#39;sleeping&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.3474] device (wlp0s20f3): supplicant interface state: completed -&gt; disconnected</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-DSCP-POLICY clear_all</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-DISCONNECTED bssid=00:b8:c2:11:44:81 reason=3 locally_generated=1</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: deauthenticating from 00:b8:c2:11:44:81 by local choice (Reason: 3=DEAUTH_LEAVING)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>[15032:15073:0417/190727.128646:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.1270] device (wlp0s20f3): state change: activated -&gt; deactivating (reason &#39;sleeping&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.1268] manager: NetworkManager state is now ASLEEP</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.1263] device (p2p-dev-wlp0s20f3): state change: disconnected -&gt; unmanaged (reason &#39;sleeping&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T16:07:27Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713370047.1260] manager: sleep: sleep requested (sleeping: no  enabled: yes)</message>
+  </log>
+</logs>

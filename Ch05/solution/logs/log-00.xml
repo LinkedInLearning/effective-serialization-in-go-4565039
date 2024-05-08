@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T18:53:13Z</time>
+    <level>INFO</level>
+    <message>fprintd.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:53:01Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-73 noise=9999 txrate=162000</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:54Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:48Z</time>
+    <level>WARNING</level>
+    <message>Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.Failed: error occurred in AboutToShow
+
+Stack trace:
+  _promisify/proto[asyncFunc]/&lt;/&lt;@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  ### Promise created here: ###
+  sendAboutToShow@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:501:48
+  sendAboutToShow@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:198:22
+  attachToMenu@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:862:24
+  _updateMenu/this._menuReadyId&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:319:38
+  _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+  _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+  Client/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:833:24
+  _updateLayoutState@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:365:18
+  _layoutUpdateUpdateAsync@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:346:18
+  async*_beginLayoutUpdate@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:326:14
+  _requestLayoutUpdate@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:276:14
+  initAsync@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:254:14
+  async*Client@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/dbusMenu.js:827:22
+  _updateMenu@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:311:32
+  _showIfReady@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/indicatorStatusIcon.js:332:14
+  _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+  _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+  _checkIfReady@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:464:18
+  checkIfReadyChanged@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:646:50
+  _onPropertiesChanged/&lt;@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:654:17
+  _onPropertiesChanged@file:///usr/share/gnome-shell/extensions/appindicatorsupport@rgcjonas.gmail.com/appIndicator.js:650:15
+  @resource:///org/gnome/shell/ui/init.js:21:20
+  </message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:48Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379968.0145] agent-manager: agent[b314a954e40cb059,:1.76/org.gnome.Shell.NetworkAgent/1000]: agent registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:47Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379967.8462] dhcp6 (wlp0s20f3): state changed new lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:47Z</time>
+    <level>NOTICE</level>
+    <message>loading user theme: /home/miki/.local/share/themes/Custom-Accent-Colors/gnome-shell/gnome-shell.css</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:47Z</time>
+    <level>INFO</level>
+    <message>gkr-pam: unlocked login keyring</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:46Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379966.6158] policy: set &#39;tebeka&#39; (wlp0s20f3) as default for IPv6 routing and DNS</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:46Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379966.6151] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:45Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379965.2722] manager: NetworkManager state is now CONNECTED_GLOBAL</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.7263] device (wlp0s20f3): Activation: successful, device activated.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.7258] manager: NetworkManager state is now CONNECTED_SITE</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.7256] device (wlp0s20f3): state change: secondaries -&gt; activated (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.7255] device (wlp0s20f3): state change: ip-check -&gt; secondaries (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.6821] device (wlp0s20f3): state change: ip-config -&gt; ip-check (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.6699] policy: set &#39;tebeka&#39; (wlp0s20f3) as default for IPv4 routing and DNS</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.6693] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4941] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20, acd pending</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4695] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>DEBUG</level>
+    <message>wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4685] device (wlp0s20f3): state change: config -&gt; ip-config (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4679] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-72 noise=9999 txrate=26000</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4678] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network &#34;tebeka&#34;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.4677] device (wlp0s20f3): supplicant interface state: 4way_handshake -&gt; completed</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-CONNECTED - Connection to 00:b8:c2:11:44:81 completed [id=0 id_str=]</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WPA: Key negotiation completed with 00:b8:c2:11:44:81 [PTK=CCMP GTK=CCMP]</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3986] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3985] device (wlp0s20f3): supplicant interface state: associated -&gt; 4way_handshake</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3843] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3842] device (wlp0s20f3): supplicant interface state: associating -&gt; associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associated</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Associated with 00:b8:c2:11:44:81</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: RX AssocResp from 00:b8:c2:11:44:81 (capab=0x1011 status=0 aid=3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3662] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3662] device (wlp0s20f3): supplicant interface state: authenticating -&gt; associating</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: associate with 00:b8:c2:11:44:81 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticated</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: Trying to associate with 00:b8:c2:11:44:81 (SSID=&#39;tebeka&#39; freq=5260 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3390] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3390] device (wlp0s20f3): supplicant interface state: inactive -&gt; authenticating</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: send auth to 00:b8:c2:11:44:81 (try 1/3)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>wlp0s20f3: authenticate with 00:b8:c2:11:44:81 (local address=8c:f8:c5:c3:43:ee)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: SME: Trying to authenticate with 00:b8:c2:11:44:81 (SSID=&#39;tebeka&#39; freq=5260 MHz)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3171] device (p2p-dev-wlp0s20f3): supplicant management interface state: interface_disabled -&gt; inactive</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.3170] device (wlp0s20f3): supplicant interface state: interface_disabled -&gt; inactive</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: WPS-CANCEL</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] Config: added &#39;psk&#39; value &#39;&lt;hidden&gt;&#39;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] Config: added &#39;key_mgmt&#39; value &#39;WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE&#39;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] Config: added &#39;bgscan&#39; value &#39;simple:30:-65:300&#39;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] Config: added &#39;scan_ssid&#39; value &#39;1&#39;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] Config: added &#39;ssid&#39; value &#39;tebeka&#39;</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2716] device (wlp0s20f3): Activation: (wifi) connection &#39;tebeka&#39; has security, and secrets exist.  No new secrets needed.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2713] device (wlp0s20f3): state change: prepare -&gt; config (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2711] device (wlp0s20f3): state change: need-auth -&gt; prepare (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2704] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -&gt; interface_disabled</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2704] device (wlp0s20f3): supplicant interface state: disconnected -&gt; interface_disabled</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2702] sup-iface[78b04b81398299cb,3,wlp0s20f3]: wps: type pbc start...</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2701] device (wlp0s20f3): state change: config -&gt; need-auth (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2700] device (wlp0s20f3): Activation: (wifi) access point &#39;tebeka&#39; has security, but secrets are required.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2692] device (wlp0s20f3): state change: prepare -&gt; config (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2623] device (wlp0s20f3): set-hw-addr: reset MAC address to 8C:F8:C5:C3:43:EE (preserve)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2332] manager: NetworkManager state is now CONNECTING</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2329] device (wlp0s20f3): state change: disconnected -&gt; prepare (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2328] device (wlp0s20f3): Activation: starting connection &#39;tebeka&#39; (20b8318e-8be2-457c-8e10-6a8e9b76bfec)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:44Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379964.2323] policy: auto-activating connection &#39;tebeka&#39; (20b8318e-8be2-457c-8e10-6a8e9b76bfec)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:43Z</time>
+    <level>NOTICE</level>
+    <message>&lt;msg&gt; [base-manager] couldn&#39;t check support for device &#39;/sys/devices/pci0000:00/0000:00:1f.6&#39;: not supported by any plugin</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:43Z</time>
+    <level>NOTICE</level>
+    <message>&lt;msg&gt; [base-manager] couldn&#39;t check support for device &#39;/sys/devices/pci0000:00/0000:00:14.3&#39;: not supported by any plugin</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:43Z</time>
+    <level>INFO</level>
+    <message>Started Fingerprint Authentication Daemon.</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:43Z</time>
+    <level>INFO</level>
+    <message>Starting Fingerprint Authentication Daemon...</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5339] device (p2p-dev-wlp0s20f3): state change: unavailable -&gt; disconnected (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5333] device (wlp0s20f3): state change: unavailable -&gt; disconnected (reason &#39;supplicant-available&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5328] device (p2p-dev-wlp0s20f3): state change: unmanaged -&gt; unavailable (reason &#39;managed&#39;, sys-iface-state: &#39;external&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5325] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/8)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5320] Wi-Fi P2P device controlled by interface wlp0s20f3 created</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5313] device (p2p-dev-wlp0s20f3): state change: unavailable -&gt; unmanaged (reason &#39;removed&#39;, sys-iface-state: &#39;removed&#39;)</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.5313] device (wlp0s20f3): supplicant interface state: internal-starting -&gt; disconnected</message>
+  </log>
+  <log>
+    <time>2024-04-17T18:52:40Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713379960.4820] manager: NetworkManager state is now CONNECTED_LOCAL</message>
+  </log>
+</logs>

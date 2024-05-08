@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T13:59:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:59:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:59:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713362352.5572] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:56:19Z</time>
+    <level>INFO</level>
+    <message>systemd-hostnamed.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:55:49Z</time>
+    <level>INFO</level>
+    <message>Started Hostname Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:55:49Z</time>
+    <level>INFO</level>
+    <message>Starting Hostname Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:52:07Z</time>
+    <level>INFO</level>
+    <message>Started Tracker metadata extractor.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:52:07Z</time>
+    <level>INFO</level>
+    <message>Starting Tracker metadata extractor...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:51:06Z</time>
+    <level>INFO</level>
+    <message>Started Tracker metadata extractor.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:51:06Z</time>
+    <level>INFO</level>
+    <message>Starting Tracker metadata extractor...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:30:17Z</time>
+    <level>INFO</level>
+    <message>Warning: disabling flag --expose_wasm due to conflicting flags</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:29:22Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:29:12Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:29:12Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:29:12Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713360552.5402] dhcp4 (wlp0s20f3): state changed new lease, address=10.0.0.20</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:27:31Z</time>
+    <level>INFO</level>
+    <message>[15032:15032:0417/162731.410876:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:27:24Z</time>
+    <level>INFO</level>
+    <message>systemd-hostnamed.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:54Z</time>
+    <level>INFO</level>
+    <message>Started Hostname Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:54Z</time>
+    <level>INFO</level>
+    <message>Starting Hostname Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:43Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Settings.SearchProvider@3.service: Consumed 1.507s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:01Z</time>
+    <level>INFO</level>
+    <message>Started Tracker metadata extractor.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:01Z</time>
+    <level>INFO</level>
+    <message>Starting Tracker metadata extractor...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:26:00Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Nautilus@4.service: Consumed 1.613s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:58Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Characters@4.service: Consumed 1.825s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:58Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application exiting</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:58Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.clocks@4.service: Consumed 1.530s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:55Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.manjaro.pamac.manager@4.service: Consumed 2.175s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:48Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@12.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:47Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:47Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:47Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@11.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:47Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:47Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@10.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@9.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:46Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:45Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.NautilusPreviewer@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:44Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application started</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:44Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.seahorse.Application@8.service: Consumed 1.015s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>WARNING</level>
+    <message>Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>NOTICE</level>
+    <message>Connecting to org.freedesktop.Tracker3.Miner.Files</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.manjaro.pamac.manager@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@8.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.clocks@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Settings.SearchProvider@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Nautilus@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Characters@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Calculator.SearchProvider@4.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:25:43Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:24:48Z</time>
+    <level>INFO</level>
+    <message>Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1800003</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:24:48Z</time>
+    <level>INFO</level>
+    <message>Window manager warning: Invalid WM_TRANSIENT_FOR window 0x49f specified for 0x1800003.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:24:07Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-70 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:23:37Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-65 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:22:57Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-62 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:22:33Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-63 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:22:14Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-63 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:22:01Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-61 noise=9999 txrate=585100</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:21:32Z</time>
+    <level>INFO</level>
+    <message>systemd-hostnamed.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:21:11Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-59 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:21:02Z</time>
+    <level>INFO</level>
+    <message>Started Hostname Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:21:02Z</time>
+    <level>INFO</level>
+    <message>Starting Hostname Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f5d0 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f3d0 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46ee40 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>Task for &#39;file:///home/miki/Desktop&#39; finished with error: Unknown target graph for uri:&#39;file:///home/miki/Desktop&#39; and mime:&#39;inode/directory&#39;
+</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f4d0 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f2d0 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46e280 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>Task for &#39;file:///home/miki/Downloads&#39; finished with error: Unknown target graph for uri:&#39;file:///home/miki/Downloads&#39; and mime:&#39;inode/directory&#39;
+</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f1d0 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>GTask 0x61733d46f030 (source object: 0x61733d43fb00, source tag: (nil)) finalized without ever returning (using g_task_return_*()). This potentially indicates a bug in the program.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>WARNING</level>
+    <message>Task for &#39;file:///home/miki&#39; finished with error: Unknown target graph for uri:&#39;file:///home/miki&#39; and mime:&#39;inode/directory&#39;
+</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>INFO</level>
+    <message>Started Tracker metadata extractor.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:42Z</time>
+    <level>INFO</level>
+    <message>Starting Tracker metadata extractor...</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:20:21Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-62 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:19:31Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-62 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:19:11Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-67 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:19:07Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-58 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:18:41Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-62 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:47Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-61 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:35Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-62 noise=9999 txrate=433300</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:11Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-62 noise=9999 txrate=390000</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBoxLayout&gt;:0x58d82715a150] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;dashtodockDashScrollview&gt;[&lt;StScrollView&gt;:0x58d827a81c40] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;dashtodockDashContainer&gt;[&lt;StBoxLayout&gt;:0x58d82513b5c0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterActor&gt;:0x58d82b14a9b0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StWidget&gt;:0x58d825252eb0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T13:17:02Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;dash&gt;[&lt;Gjs_dash-to-dock_micxgx_gmail_com_dash_DockDash&gt;:0x58d82513aaf0] is on because it needs an allocation.</message>
+  </log>
+</logs>

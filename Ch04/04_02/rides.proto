@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option go_package = "rides/pb";
+
+message Location {
+  double lat = 1;
+  double lng = 2;
+}
+
+enum RideType {
+  UNKNOWN = 0;
+  REGULAR = 1;
+  SHARED = 2;
+}
+
+message RideStart {
+  google.protobuf.Timestamp time = 1;
+  string car_id = 2;
+  Location location = 3;
+  RideType type = 4;
+  int64 passengers = 5;
+}

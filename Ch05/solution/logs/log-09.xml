@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logs>
+  <log>
+    <time>2024-04-17T12:31:23Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-57 noise=9999 txrate=520000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:30:59Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-65 noise=9999 txrate=520000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:30:53Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-60 noise=9999 txrate=520000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:30:41Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=0 signal=-66 noise=9999 txrate=520000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:30:06Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Settings.SearchProvider@2.service: Consumed 1.085s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:19Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Nautilus@3.service: Consumed 1.301s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:18Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.manjaro.pamac.manager@3.service: Consumed 2.027s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:18Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.Characters@3.service: Consumed 1.488s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:18Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application exiting</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:17Z</time>
+    <level>INFO</level>
+    <message>dbus-:1.2-org.gnome.clocks@3.service: Consumed 1.108s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:17Z</time>
+    <level>INFO</level>
+    <message>[15096:15096:0417/152917.085139:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:16Z</time>
+    <level>INFO</level>
+    <message>[15096:15096:0417/152916.118606:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:16Z</time>
+    <level>INFO</level>
+    <message>[15096:15096:0417/152916.075602:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:14Z</time>
+    <level>INFO</level>
+    <message>Created TensorFlow Lite XNNPACK delegate for CPU.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:10Z</time>
+    <level>INFO</level>
+    <message>[15032:15032:0417/152910.640575:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:10Z</time>
+    <level>INFO</level>
+    <message>[15032:15032:0417/152910.277289:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not part of the idle inhibition specification: https://specifications.freedesktop.org/idle-inhibit-spec/latest/</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:08Z</time>
+    <level>WARNING</level>
+    <message>asked to register item /org/freedesktop/secrets/collection/login/1, but it&#39;s already registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:08Z</time>
+    <level>WARNING</level>
+    <message>asked to register item /org/freedesktop/secrets/collection/login/1, but it&#39;s already registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:08Z</time>
+    <level>INFO</level>
+    <message>Started Application launched by gnome-shell.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:07Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.NautilusPreviewer@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:07Z</time>
+    <level>NOTICE</level>
+    <message>JS LOG: Characters Application started</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>NOTICE</level>
+    <message>Connecting to org.freedesktop.Tracker3.Miner.Files</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.manjaro.pamac.manager@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.seahorse.Application@7.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.clocks@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Settings.SearchProvider@2.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Nautilus@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Characters@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>INFO</level>
+    <message>Started dbus-:1.2-org.gnome.Calculator.SearchProvider@3.service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider firefox.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>NOTICE</level>
+    <message>Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterText&gt;:0x58d8274f9440] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StLabel&gt;:0x58d8274f8900] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterActor&gt;:0x58d827cd4ca0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StIcon&gt;:0x58d826f52010] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_status_system_Indicator&gt;:0x58d8274f6050] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterActor&gt;:0x58d828e7d820] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StIcon&gt;:0x58d827581420] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_status_volume_OutputIndicator&gt;:0x58d8275803f0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterActor&gt;:0x58d824c6a3e0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StIcon&gt;:0x58d826816650] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_status_network_Indicator&gt;:0x58d8271a4d20] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBoxLayout&gt;:0x58d824c78370] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_panel_QuickSettings&gt;:0x58d824c7ae50] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d824c62af0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterText&gt;:0x58d8257c2cf0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StLabel&gt;:0x58d829d51a30] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_status_keyboard_InputSourceIndicatorContainer&gt;:0x58d8261539d0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_status_keyboard_InputSourceIndicator&gt;:0x58d82614c860] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d82614d470] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d8260bb620] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d8260b5280] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d8260aea10] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panelRight&gt;[&lt;StBoxLayout&gt;:0x58d825dcd7c0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterActor&gt;:0x58d82809ccc0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_dateMenu_MessagesIndicator&gt;:0x58d825de47b0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;ClutterText&gt;:0x58d825de2720] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StLabel&gt;:0x58d825de1cc0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StWidget&gt;:0x58d825de7cf0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBoxLayout&gt;:0x58d825de9e70] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_dateMenu_DateMenuButton&gt;:0x58d825ddaa80] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d825ddb870] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panelCenter&gt;[&lt;StBoxLayout&gt;:0x58d825dcc770] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StWidget&gt;:0x58d828e2eb20] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_panel_WorkspaceDot&gt;:0x58d828e2e3d0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StWidget&gt;:0x58d825dd7950] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_panel_WorkspaceDot&gt;:0x58d825dd6d80] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;Gjs_ui_panel_WorkspaceIndicators&gt;:0x58d825dd3340] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panelActivities&gt;[&lt;Gjs_ui_panel_ActivitiesButton&gt;:0x58d825dcf990] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;unnamed&gt;[&lt;StBin&gt;:0x58d825dd0aa0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panelLeft&gt;[&lt;StBoxLayout&gt;:0x58d82579cfc0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panel&gt;[&lt;Gjs_ui_panel_Panel&gt;:0x58d82579c3e0] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;panelBox&gt;[&lt;StBoxLayout&gt;:0x58d8258fa780] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:06Z</time>
+    <level>WARNING</level>
+    <message>Can&#39;t update stage views actor &lt;overviewGroup&gt;[&lt;StWidget&gt;:0x58d8258ed070] is on because it needs an allocation.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:29:02Z</time>
+    <level>INFO</level>
+    <message>fprintd.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:59Z</time>
+    <level>INFO</level>
+    <message>app-gnome-google\x2dchrome-2330.scope: Consumed 9min 45.790s CPU time.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:50Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:41Z</time>
+    <level>NOTICE</level>
+    <message>wlp0s20f3: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-60 noise=9999 txrate=26000</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:40Z</time>
+    <level>INFO</level>
+    <message>Started Network Manager Script Dispatcher Service.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:40Z</time>
+    <level>INFO</level>
+    <message>Starting Network Manager Script Dispatcher Service...</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:39Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356919.9864] dhcp6 (wlp0s20f3): state changed new lease</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:39Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356919.6771] policy: set &#39;tebeka&#39; (wlp0s20f3) as default for IPv6 routing and DNS</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:39Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356919.6767] dhcp6 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:36Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356916.0463] agent-manager: agent[29984ee7472c5438,:1.76/org.gnome.Shell.NetworkAgent/1000]: agent registered</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>NOTICE</level>
+    <message>loading user theme: /home/miki/.local/share/themes/Custom-Accent-Colors/gnome-shell/gnome-shell.css</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>NetworkManager-dispatcher.service: Deactivated successfully.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356915.6315] manager: NetworkManager state is now CONNECTED_GLOBAL</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>gkr-pam: unlocked login keyring</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356915.0998] device (wlp0s20f3): Activation: successful, device activated.</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356915.0986] manager: NetworkManager state is now CONNECTED_SITE</message>
+  </log>
+  <log>
+    <time>2024-04-17T12:28:35Z</time>
+    <level>INFO</level>
+    <message>&lt;info&gt;  [1713356915.0984] device (wlp0s20f3): state change: secondaries -&gt; activated (reason &#39;none&#39;, sys-iface-state: &#39;managed&#39;)</message>
+  </log>
+</logs>
