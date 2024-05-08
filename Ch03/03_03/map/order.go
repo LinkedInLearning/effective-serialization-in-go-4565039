@@ -23,7 +23,12 @@ func ParseOrderRequest(data []byte) (OrderRequest, error) {
 	}
 
 	if val, ok := m["amount"]; ok {
-		amount := int(val.(float64))
+		fval, ok := val.(float64)
+		if !ok {
+			return OrderRequest{}, fmt.Errorf("bad amount: %#v", val)
+		}
+
+		amount := int(fval)
 		if amount <= 0 {
 			return OrderRequest{}, fmt.Errorf("invalid amount: %d", amount)
 		}
