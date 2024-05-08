@@ -16,7 +16,7 @@ func main() {
 			Lat: 48.8737917,
 			Lng: 2.2950275,
 		},
-		Type:       pb.RideType_SHARED,
+		Type:       pb.RideType_REGULAR,
 		Passengers: 1,
 	}
 
