@@ -1,10 +1,10 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"serialization/Ch04/04_05/pb"
 
+	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 
@@ -20,7 +20,9 @@ func main() {
 		Passengers: 1,
 	}
 
-	data, err := json.MarshalIndent(&msg, "", "    ")
+	// data, err := json.MarshalIndent(&msg, "", "    ")
+	data, err := protojson.Marshal(&msg)
+
 	if err != nil {
 		fmt.Println("ERROR:", err)
 		return
