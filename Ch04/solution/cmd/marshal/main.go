@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"serialization/Ch04/solution/pb"
 	"time"
+
+	"serialization/Ch04/solution/pb"
 
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/timestamppb"
