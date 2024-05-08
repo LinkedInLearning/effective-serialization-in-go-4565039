@@ -32,6 +32,7 @@ func main() {
 		fmt.Println("error (unmarshal):", err)
 		return
 	}
+	fmt.Println("t2 (unmarshal):", t2)
 
 	// io.Writer/io.Reader API
 	var buf bytes.Buffer
@@ -48,4 +49,5 @@ func main() {
 		fmt.Println("error (decode):", err)
 		return
 	}
+	fmt.Println("t2 (decoder):", t2)
 }
