@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-func ExampleMetric_MarshalText() {
+func ExampleMetrics_MarshalJSON() {
 	// Full data
 	m1 := Metric{
 		Time:  time.Date(2024, time.February, 7, 4, 32, 56, 392, time.UTC),
